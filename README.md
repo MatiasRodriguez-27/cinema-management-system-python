@@ -24,6 +24,22 @@ Console-based application developed in Python for the management of a cinema, in
 
 This project was developed to practice programming logic, data structures, and system design, simulating a real-world management system.
 
+## ▶️ How to Run
+
+1. Clone the repository
+2. Open the project in Python
+3. Run the main file:
+   ```bash
+   python main.py
+
+##  Key Concepts
+
+- Role-based access control
+- CRUD operations
+- File persistence
+- Data validation
+- Modular programming
+  
 ## 👤 Author
 
 Matías Rodríguez  
